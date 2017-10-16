@@ -27,6 +27,12 @@
     "runpython",
     "deletefile",
     "reboot",
-    "shutdown"
+    "shutdown",
+    "enablessh",
+    "sambamount",
+    "rpiupdate",
+    "sshpasswordauth",
+    "ntpsetup",
+    "watchdog"
   ]
 }
